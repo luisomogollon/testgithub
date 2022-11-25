@@ -17,7 +17,7 @@ function App() {
         >
           Learn Reactsss
         </a>
-        <h1 class="text-3xl font-bold underline">
+        <h1 class="text-10xl font-bold underline">
     Test githubs.
   </h1>
       </header>
